@@ -75,7 +75,11 @@ p {
   margin-bottom: 1.5em;
 }
 h1.entry-title {
+<<<<<<< HEAD
   font-size: 4.31rem;
+=======
+  font-size: 1.31rem;
+>>>>>>> parent of 08e4c96... Test - change h1 entry title
   border-bottom: 1px solid #eaecef;
   color:red;
 }
